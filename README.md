@@ -1,7 +1,7 @@
-<h1>heewoonkim2020 Git Profile</h1>
+<h1>TheRealAndrew's Git Profile</h1>
 <details>
   <summary>Profile Info</summary>
-  - <b>Username</b>: heewoonkim2020<br>
+  - <b>Username</b>: therealandrew<br>
   - <b>Pronoun</b>: he, him<br>
-  - <b>Preferred Code Editor</b>: Visual Studio Code
+  - <b>Preferred Code Editor</b>: Visual Studio Code (I hate pycharm)
 </details>
